@@ -1,0 +1,26 @@
+site_name: Shadowsocks 文档
+site_description: 'Shadowsocks 各个平台配置教程。服务器地址、账号、密码。'
+site_author: '正小歪'
+site_url: 'https://ssdoc.kont.space'
+site_favicon: 'images/rocket.ico'
+
+
+theme: 'material'
+
+copyright: 'Copyright &copy; 2017 Sean Ho'
+
+pages:
+    - Home: index.md
+    - Usage Guide: user-guide.md
+    - Download: download.md
+    - About: about.md
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/kontspace'
+
+markdown_extensions:
+  - admonition
+  - codehilite(guess_lang=false)
+  - toc(permalink=true)
