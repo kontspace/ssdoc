@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to Shadosocks Doc\n\n\n\u672c\u6587\u6863\u5305\u542b\u4ee5\u4e0b\u5185\u5bb9\uff1a\n\n\n\n\nWindows\u3001MacOS\u3001Android\u3001IOS \u4e0b\u8f6f\u4ef6\u914d\u7f6e\u548c\u4f7f\u7528\u6559\u7a0b\n\n\nShadowsocks \u5ba2\u6237\u7aef\u56fd\u5185\u4e0b\u8f7d\u5730\u5740\uff08\u4e0d\u4fdd\u8bc1\u6700\u65b0\uff09", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-shadosocks-doc", 
+            "text": "\u672c\u6587\u6863\u5305\u542b\u4ee5\u4e0b\u5185\u5bb9\uff1a   Windows\u3001MacOS\u3001Android\u3001IOS \u4e0b\u8f6f\u4ef6\u914d\u7f6e\u548c\u4f7f\u7528\u6559\u7a0b  Shadowsocks \u5ba2\u6237\u7aef\u56fd\u5185\u4e0b\u8f7d\u5730\u5740\uff08\u4e0d\u4fdd\u8bc1\u6700\u65b0\uff09", 
+            "title": "Welcome to Shadosocks Doc"
+        }, 
+        {
+            "location": "/user-guide/", 
+            "text": "", 
+            "title": "Usage Guide"
+        }, 
+        {
+            "location": "/download/", 
+            "text": "Download\n\n\n\n\nMacOS\n\n\nWindows\n\n\nAndroid\n\n\nIOS", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/download/#download", 
+            "text": "MacOS  Windows  Android  IOS", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "About\n\n\nNo content", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#about", 
+            "text": "No content", 
+            "title": "About"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>https://ssdoc.kont.space/</loc>
+     <lastmod>2017-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://ssdoc.kont.space/user-guide/</loc>
+     <lastmod>2017-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://ssdoc.kont.space/download/</loc>
+     <lastmod>2017-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://ssdoc.kont.space/about/</loc>
+     <lastmod>2017-07-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
